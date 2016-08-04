@@ -1,0 +1,25 @@
+_repo: Hackers-Heroes-of-the-Computer-Revolution--13-Chapters-1-and-2_729
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Levy, Steven
+    birthdate: 1951
+    gutenberg_agent_id: '374'
+    url: http://www.gutenberg.org/2009/agents/374
+    wikipedia: http://en.wikipedia.org/wiki/Steven_Levy
+description: ''
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '729'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Computer hackers'
+- !lcc 'QA'
+- !lcsh 'Computer programming'
+- GITenberg
+title: "Hackers, Heroes of the Computer Revolution\r\nChapters 1 and 2"
+url: http://www.gutenberg.org/ebooks/729
